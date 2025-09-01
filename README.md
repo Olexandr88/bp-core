@@ -1,8 +1,8 @@
 # Bitcoin protocol core library
 
-![Build](https://github.com/BP-WG/bp-core/workflows/Build/badge.svg)
-![Tests](https://github.com/BP-WG/bp-core/workflows/Tests/badge.svg)
-![Lints](https://github.com/BP-WG/bp-core/workflows/Lints/badge.svg)
+[![Build](https://github.com/BP-WG/bp-core/workflows/Build/badge.svg)](https://github.com/BP-WG/bp-core/actions/workflows/build.yml)
+[![Tests](https://github.com/BP-WG/bp-core/workflows/Tests/badge.svg)](https://github.com/BP-WG/bp-core/actions/workflows/test.yml)
+[![Lints](https://github.com/BP-WG/bp-core/workflows/Lints/badge.svg)](https://github.com/BP-WG/bp-core/actions/workflows/lint.yml)
 [![codecov](https://codecov.io/gh/BP-WG/bp-core/branch/master/graph/badge.svg)](https://codecov.io/gh/BP-WG/bp-core)
 
 [![crates.io](https://img.shields.io/crates/v/bp-core)](https://crates.io/crates/bp-core)
